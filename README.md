@@ -4,11 +4,12 @@
 
 
 <h1>Overview</h1>
-The objective of this project is to create a machine learning model capable of precisely detecting fraudulent transactions. By utilizing a dataset comprising both legitimate and fraudulent transactions, we aim to train a machine learning algorithm to identify patterns and characteristics indicative of fraudulent activities. The developed fraud detection model is designed to recognize and flag suspicious transactions, contributing to a more secure financial environment.
+The objective of this project is to create a machine-learning model capable of precisely detecting fraudulent transactions. By utilizing a dataset comprising both legitimate and fraudulent transactions, we aim to train a machine-learning algorithm to identify patterns and characteristics indicative of fraudulent activities. The developed fraud detection model is designed to recognize and flag suspicious transactions, contributing to a more secure financial environment.
 
 <h2>Table of Content</h2>
 <ol>
 <li>Project Background</li>
+<li>Data Download</li>
 <li>Dataset Description</li>
 <li>Data Preprocessing</li>
 <li>Exploratory Data Analysis</li>
@@ -22,6 +23,9 @@ The objective of this project is to create a machine learning model capable of p
 
 <h2>Project Background</h2>
 Fraudulent activities in financial transactions can lead to significant financial losses and compromise the integrity of financial systems. This project aims to develop a robust machine-learning model that can accurately detect fraudulent transactions, thereby enhancing fraud prevention and security measures.
+
+<h2>Data Download</h2>
+To replicate the results of this project and work with the same dataset, you can download the dataset from the following link: [Dataset Download Link.](https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset)
 
 <h2>Dataset Description</h2>
 The dataset used for this project contains transactional data with various attributes, including transaction type, amount, account balances, and time of the transaction. The dataset has been preprocessed to handle missing values and categorical variables, and exploratory data analysis has been conducted to gain insights into the data distribution and transaction patterns.
