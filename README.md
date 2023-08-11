@@ -25,7 +25,8 @@ The objective of this project is to create a machine-learning model capable of p
 Fraudulent activities in financial transactions can lead to significant financial losses and compromise the integrity of financial systems. This project aims to develop a robust machine-learning model that can accurately detect fraudulent transactions, thereby enhancing fraud prevention and security measures.
 
 <h2>Data Download</h2>
-To replicate the results of this project and work with the same dataset, you can download the dataset from the following link: [Dataset Download Link]: https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset
+To replicate the results of this project and work with the same dataset, you can download the dataset from the following link: 
+[Dataset Download Link]: https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset
 
 <h2>Dataset Description</h2>
 The dataset used for this project contains transactional data with various attributes, including transaction type, amount, account balances, and time of the transaction. The dataset has been preprocessed to handle missing values and categorical variables, and exploratory data analysis has been conducted to gain insights into the data distribution and transaction patterns.
